@@ -17,4 +17,4 @@ var range = $('#text-field').selectRange();
 alert('start: ' + range.start + '; end: ' + range.end + '; text: "' + range.text + '"');
 ```
 
-It may be input or textarea. See `example/example.js` for details.
+It may be input or textarea. See [`example/example.js`](http://makingoff.github.io/jquery-selectRange/example/) for details.
