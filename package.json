@@ -1,0 +1,26 @@
+{
+  "name": "selectRange",
+  "version": "0.1.0",
+  "description": "JQuery-plugin for selecting range at inputs or textarea",
+  "main": "jquery.selectRange.js",
+  "directories": {
+    "example": "example",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makingoff/jquery-selectRange"
+  },
+  "author": "makingoff <mail@makingoff.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makingoff/jquery-selectRange/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt": "~0.4.1"
+  }
+}
